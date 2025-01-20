@@ -16,7 +16,7 @@ must be in the same directory
 ```
 #include "ramram.h"
 ```
-### CODE EXAMPLE
+### LIB CODE
 ```
 #include<iostream>
 #include<random>
